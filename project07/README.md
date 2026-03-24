@@ -116,10 +116,10 @@ Run-length encoding and decoding for compressing BWT output
 ```
 
 # Successes
-Description of the team's learning points
+Having a clear pseudocode foundation made the whole process feel much more manageable from the start. We had a set of steps to reference and work from, which set a solid foundation for the scripting. The pseudocode broke each function down into bite-sized pieces, so we could focus on one small part at a time. This was especially helpful for functions that had a lot of moving parts, and it also made it easier to write comments in our code, since we had descriptions of what each step was supposed to do. Overall, having that foundation in place gave the team confidence and a clear direction throughout the project.
 
 # Struggles
-Description of the stumbling blocks the team experienced
+Actually understanding what the algorithm was doing conceptually was a persistent challenge for us. Some of the core ideas were difficult to wrap our heads around, and translating a concept from a written description into working code required lots of prior planning. The biggest lesson was that understanding an algorithm well enough to explain it and understanding it well enough to implement it are two very different things. Additionally, with time constraints due to religious observances, our collaboration was strained. Regardless, we maintained communication to keep each other up to date, which ensured no one lagged behind.
 
 # Personal Reflections
 ## Tien Nguyen
@@ -129,6 +129,7 @@ Working on this project was both challenging and rewarding, particularly in unde
 Other members' reflections on the project
 
 ## Shameem Shahib
+I found the concepts to be very confusing at first, and it took some time to understand what was going on in each step. Nonetheless, it was a fun challenge to approach. We did have some obstacles due to time constraints and religious observations, but we made sure to update each other on what changes/updates were made. Working through each function helped me understand the concepts better, and I found that the hardest part was visualizing each step. Once that initial hurdle was crossed and we had our pseudocode laid out, the rest of the scripting was not as intimidating. Overall, I found this to be an enriching project that felt different from the previous projects we've worked on.
 
 # Generative AI Appendix
 As per the syllabus
